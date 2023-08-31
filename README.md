@@ -3,9 +3,11 @@
 
 My name is Lidor Levi, and this is my Github.
 
-- You can view my ongoing projects and progress over time as I work daily to expand my full-stack skills. Thank you for visiting!
+- You can view my ongoing projects and progress over time as I work daily to expand my full-stack skills. 
 
 - link to my [linktree](https://linktr.ee/LidorLevi)
+
+- Thank you for paying a visit!
 
 <!--
 **LidorLevi123/LidorLevi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
