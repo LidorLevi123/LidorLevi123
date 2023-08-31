@@ -4,7 +4,7 @@
 My name is Lidor Levi, and this is my Github.
 You can view my ongoing projects and progress over time as I work daily to expand my full-stack skills. Thank you for visiting!
 
-- link to my linktree: (https://linktr.ee/LidorLevi
+- link to my [linktree](https://linktr.ee/LidorLevi)
 
 <!--
 **LidorLevi123/LidorLevi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
