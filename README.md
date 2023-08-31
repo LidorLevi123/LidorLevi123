@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- My name is Lidor Levi, and this is my Github. You can see a varurtiy of project and see my progress throughout the months. Currently working everyday on a new projects to expand my mindset and fullstack skills. Thanks for paying a visit!
+My name is Lidor Levi, and this is my Github.
+You can view my ongoing projects and progress over time as I work daily to expand my full-stack skills. Thank you for visiting!
 
 - link to my linktree: (https://linktr.ee/LidorLevi
 
